@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="71803" started-at="2023-07-20T13:19:22Z" finished-at="2023-07-20T13:20:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="71803" started-at="2023-07-20T13:19:22Z" finished-at="2023-07-20T13:20:34Z">
+      <class name="org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData">
+        <test-method status="PASS" signature="initiliaseFiles()[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="initiliaseFiles" is-config="true" duration-ms="1717" started-at="2023-07-20T13:19:20Z" finished-at="2023-07-20T13:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiliaseFiles -->
+        <test-method status="PASS" signature="Browserinvoked()[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="Browserinvoked" is-config="true" duration-ms="12409" started-at="2023-07-20T13:19:22Z" finished-at="2023-07-20T13:19:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserinvoked -->
+        <test-method status="PASS" signature="LoginRunnerUsingMultiData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="LoginRunnerUsingMultiData" duration-ms="4179" started-at="2023-07-20T13:19:34Z" data-provider="Giddu" finished-at="2023-07-20T13:19:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gcreddy1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Madhavi@1206]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Welcome!]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginRunnerUsingMultiData -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="CloseBrowser" is-config="true" duration-ms="946" started-at="2023-07-20T13:19:39Z" finished-at="2023-07-20T13:19:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="Browserinvoked()[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="Browserinvoked" is-config="true" duration-ms="8044" started-at="2023-07-20T13:19:40Z" finished-at="2023-07-20T13:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserinvoked -->
+        <test-method status="PASS" signature="LoginRunnerUsingMultiData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="LoginRunnerUsingMultiData" duration-ms="2823" started-at="2023-07-20T13:19:48Z" data-provider="Giddu" finished-at="2023-07-20T13:19:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gcreddy1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[login failed]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginRunnerUsingMultiData -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="CloseBrowser" is-config="true" duration-ms="781" started-at="2023-07-20T13:19:50Z" finished-at="2023-07-20T13:19:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="Browserinvoked()[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="Browserinvoked" is-config="true" duration-ms="10369" started-at="2023-07-20T13:19:51Z" finished-at="2023-07-20T13:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserinvoked -->
+        <test-method status="PASS" signature="LoginRunnerUsingMultiData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="LoginRunnerUsingMultiData" duration-ms="2765" started-at="2023-07-20T13:20:02Z" data-provider="Giddu" finished-at="2023-07-20T13:20:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Madhavi@1206]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[login failed]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginRunnerUsingMultiData -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="CloseBrowser" is-config="true" duration-ms="888" started-at="2023-07-20T13:20:04Z" finished-at="2023-07-20T13:20:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="Browserinvoked()[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="Browserinvoked" is-config="true" duration-ms="9360" started-at="2023-07-20T13:20:05Z" finished-at="2023-07-20T13:20:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserinvoked -->
+        <test-method status="PASS" signature="LoginRunnerUsingMultiData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="LoginRunnerUsingMultiData" duration-ms="2638" started-at="2023-07-20T13:20:15Z" data-provider="Giddu" finished-at="2023-07-20T13:20:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Madhavi@1206]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[username or email is required]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginRunnerUsingMultiData -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="CloseBrowser" is-config="true" duration-ms="1442" started-at="2023-07-20T13:20:17Z" finished-at="2023-07-20T13:20:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="Browserinvoked()[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="Browserinvoked" is-config="true" duration-ms="9781" started-at="2023-07-20T13:20:19Z" finished-at="2023-07-20T13:20:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserinvoked -->
+        <test-method status="PASS" signature="LoginRunnerUsingMultiData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="LoginRunnerUsingMultiData" duration-ms="2845" started-at="2023-07-20T13:20:28Z" data-provider="Giddu" finished-at="2023-07-20T13:20:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gcreddy1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[login failed]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginRunnerUsingMultiData -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="CloseBrowser" is-config="true" duration-ms="835" started-at="2023-07-20T13:20:31Z" finished-at="2023-07-20T13:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="FlushReports()[pri:0, instance:org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData@13deb50e]" name="FlushReports" is-config="true" duration-ms="1627" started-at="2023-07-20T13:20:32Z" finished-at="2023-07-20T13:20:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlushReports -->
+      </class> <!-- org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

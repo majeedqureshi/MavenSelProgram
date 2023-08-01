@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+    <!-- <class name = packagename.testngclassname -->
+      <class name="org.Selenum.GcReddy.TestNGClasses.LoginActions_MultipleData"/>
+      <!--  <class name="org.Selenum.GcReddy.TestNGClasses.LoginActions_PositiveData"/> multiple classes can execute in one suites but to execute multiple suites need to use pom.xml -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
