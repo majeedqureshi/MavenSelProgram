@@ -1,0 +1,441 @@
+[INFO] [11_07_2023      12:59:38]                                                                      
+[INFO] [11_07_2023      12:59:38] ----------------------TestCase 1 ------------------------------
+[INFO] [11_07_2023      12:59:38] *********************************************************************
+[INFO] [11_07_2023      12:59:38] General message is printing
+[INFO] [11_07_2023      12:59:38] Chrome browser is invoking succesfully
+[INFO] [11_07_2023      12:59:38] the exepcted value is not executing
+[INFO] [11_07_2023      12:59:38]  the alue whic is using is not valid, hence need t ouse correct value to execute
+[INFO] [11_07_2023      12:59:38]  the database is full hence unable to execute the further line
+[INFO] [11_07_2023      12:59:38] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [11_07_2023      12:59:38]                                                                      
+[INFO] [11_07_2023      12:59:38] ----------------------TestCase 2 ------------------------------
+[INFO] [11_07_2023      12:59:38] *********************************************************************
+[INFO] [11_07_2023      12:59:38] General message is printing
+[INFO] [11_07_2023      12:59:38] Chrome browser is invoking succesfully
+[INFO] [11_07_2023      12:59:38] the exepcted value is not executing so it is failed
+[INFO] [11_07_2023      12:59:38]  the alue whic is using is not valid, hence need t ouse correct value to execute
+[INFO] [11_07_2023      12:59:38]  the database is full hence unable to execute the further line
+[INFO] [11_07_2023      12:59:38] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [11_07_2023      12:59:38]                                                                      
+[INFO] [11_07_2023      12:59:38] ----------------------UserIdFileValidation------------------------------
+[INFO] [11_07_2023      12:59:38] *********************************************************************
+[INFO] [11_07_2023      12:59:38] Chrome browser is invoking succesfully
+[INFO] [11_07_2023      12:59:38]  navigate to gmail by url https:// gmail.com 
+[INFO] [11_07_2023      12:59:38] enter  valid username in the text box and click ok
+[INFO] [11_07_2023      12:59:38]  the username is  correct and homepage of gmail is opened
+[INFO] [11_07_2023      12:59:38] enter  valid username in the text box and click ok
+[INFO] [11_07_2023      12:59:38] the exepcted home page is not appearing, hence the test case if failed
+[INFO] [11_07_2023      12:59:38] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [11_07_2023      01:03:03]                                                                      
+[INFO] [11_07_2023      01:03:03] ----------------------TestCase 1 ------------------------------
+[INFO] [11_07_2023      01:03:03] *********************************************************************
+[INFO] [11_07_2023      01:03:03] General message is printing
+[INFO] [11_07_2023      01:03:03] Chrome browser is invoking succesfully
+[INFO] [11_07_2023      01:03:03] the exepcted value is not executing
+[INFO] [11_07_2023      01:03:03]  the alue whic is using is not valid, hence need t ouse correct value to execute
+[INFO] [11_07_2023      01:03:03]  the database is full hence unable to execute the further line
+[INFO] [11_07_2023      01:03:03] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [11_07_2023      01:03:03]                                                                      
+[INFO] [11_07_2023      01:03:03] ----------------------TestCase 2 ------------------------------
+[INFO] [11_07_2023      01:03:03] *********************************************************************
+[INFO] [11_07_2023      01:03:03] General message is publishing
+[INFO] [11_07_2023      01:03:03] Chrome browser is invoking succesfully and showing default page 
+[INFO] [11_07_2023      01:03:03] the exepcted value is not executing so it is failed
+[INFO] [11_07_2023      01:03:03]  the alue whic is using is not valid, hence need t ouse correct value to execute
+[INFO] [11_07_2023      01:03:03]  the database is full hence unable to execute the further line
+[INFO] [11_07_2023      01:03:03] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [11_07_2023      01:03:03]                                                                      
+[INFO] [11_07_2023      01:03:03] ----------------------UserIdFileValidation------------------------------
+[INFO] [11_07_2023      01:03:03] *********************************************************************
+[INFO] [11_07_2023      01:03:03] Chrome browser is invoking succesfully
+[INFO] [11_07_2023      01:03:03]  navigate to gmail by url https:// gmail.com 
+[INFO] [11_07_2023      01:03:03] enter  valid username in the text box and click ok
+[INFO] [11_07_2023      01:03:03]  the username is  correct and homepage of gmail is opened
+[INFO] [11_07_2023      01:03:03] enter  valid username in the text box and click ok
+[INFO] [11_07_2023      01:03:03] the exepcted home page is not appearing, hence the test case if failed
+[INFO] [11_07_2023      01:03:03] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [11_07_2023      02:41:07]                                                                      
+[INFO] [11_07_2023      02:41:07] ----------------------TestCase 1 ------------------------------
+[INFO] [11_07_2023      02:41:07] *********************************************************************
+[INFO] [11_07_2023      02:41:07] General message is printing
+[INFO] [11_07_2023      02:41:07] Chrome browser is invoking succesfully
+[INFO] [11_07_2023      02:41:07] the exepcted value is not executing
+[INFO] [11_07_2023      02:41:07]  the alue whic is using is not valid, hence need t ouse correct value to execute
+[INFO] [11_07_2023      02:41:07]  the database is full hence unable to execute the further line
+[INFO] [11_07_2023      02:41:07] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [11_07_2023      02:41:07]                                                                      
+[INFO] [11_07_2023      02:41:07] ----------------------TestCase 2 ------------------------------
+[INFO] [11_07_2023      02:41:07] *********************************************************************
+[INFO] [11_07_2023      02:41:07] General message is publishing
+[INFO] [11_07_2023      02:41:07] Chrome browser is invoking succesfully and showing default page 
+[INFO] [11_07_2023      02:41:07] the exepcted value is not executing so it is failed
+[INFO] [11_07_2023      02:41:07]  the alue whic is using is not valid, hence need t ouse correct value to execute
+[INFO] [11_07_2023      02:41:07]  the database is full hence unable to execute the further line
+[INFO] [11_07_2023      02:41:07] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [11_07_2023      02:41:07]                                                                      
+[INFO] [11_07_2023      02:41:07] ----------------------UserIdFileValidation------------------------------
+[INFO] [11_07_2023      02:41:07] *********************************************************************
+[INFO] [11_07_2023      02:41:07] Chrome browser is invoking succesfully
+[INFO] [11_07_2023      02:41:07]  navigate to gmail by url https:// gmail.com 
+[INFO] [11_07_2023      02:41:07] enter  valid username in the text box and click ok
+[INFO] [11_07_2023      02:41:07]  the username is  correct and homepage of gmail is opened
+[INFO] [11_07_2023      02:41:07] enter  valid username in the text box and click ok
+[INFO] [11_07_2023      02:41:07] the exepcted home page is not appearing, hence the test case if failed
+[INFO] [11_07_2023      02:41:07] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [17_07_2023      03:23:36]                                                                      
+[INFO] [17_07_2023      03:23:36] ----------------------Login Actions------------------------------
+[INFO] [17_07_2023      03:23:36] *********************************************************************
+[INFO] [17_07_2023      03:23:58] chrome failed to invoke due to org.openqa.selenium.WebDriverException: Timed out waiting for driver server to start.
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'LAPTOP-DKIK15C0', ip: '192.168.0.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: driver.version: unknown
+[INFO] [17_07_2023      03:25:35]                                                                      
+[INFO] [17_07_2023      03:25:35] ----------------------Login Actions------------------------------
+[INFO] [17_07_2023      03:25:35] *********************************************************************
+[INFO] [17_07_2023      03:25:59] chrome failed to invoke due to java.lang.NullPointerException
+[INFO] [17_07_2023      03:27:42]                                                                      
+[INFO] [17_07_2023      03:27:42] ----------------------Login Actions------------------------------
+[INFO] [17_07_2023      03:27:42] *********************************************************************
+[INFO] [17_07_2023      03:27:54] chrome failed to invoke due to java.lang.NullPointerException
+[INFO] [17_07_2023      03:40:15]                                                                      
+[INFO] [17_07_2023      03:40:15] ----------------------Login Actions------------------------------
+[INFO] [17_07_2023      03:40:15] *********************************************************************
+[INFO] [17_07_2023      03:40:24] chrome failed to invoke due to java.lang.NullPointerException
+[INFO] [17_07_2023      04:14:13]                                                                      
+[INFO] [17_07_2023      04:14:14] ----------------------Login Actions------------------------------
+[INFO] [17_07_2023      04:14:14] *********************************************************************
+[INFO] [17_07_2023      04:14:38] chrome failed to invoke due to java.lang.NullPointerException
+[INFO] [17_07_2023      04:23:18]                                                                      
+[INFO] [17_07_2023      04:23:18] ----------------------Login Actions------------------------------
+[INFO] [17_07_2023      04:23:18] *********************************************************************
+[INFO] [17_07_2023      04:23:38] chrome failed to invoke due to java.lang.NullPointerException
+[INFO] [17_07_2023      04:42:50]                                                                      
+[INFO] [17_07_2023      04:42:50] ----------------------Login Actions------------------------------
+[INFO] [17_07_2023      04:42:50] *********************************************************************
+[INFO] [17_07_2023      04:43:00] chrome failed to invoke due to java.lang.NullPointerException
+[INFO] [17_07_2023      04:52:46]                                                                      
+[INFO] [17_07_2023      04:52:46] ----------------------Login Actions------------------------------
+[INFO] [17_07_2023      04:52:46] *********************************************************************
+[INFO] [17_07_2023      04:52:59] chromeinvoked successfully
+[INFO] [17_07_2023      04:53:10] https://uibank.uipath.com/invoked successfully
+[INFO] [17_07_2023      04:53:13] Login Actions
+[INFO] [17_07_2023      04:53:13] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [17_07_2023      04:53:15] Closing Browser successfully... 
+[INFO] [20_07_2023      12:01:05]                                                                      
+[INFO] [20_07_2023      12:01:05] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:01:05] *********************************************************************
+[INFO] [20_07_2023      12:01:38] chromeinvoked successfully
+[INFO] [20_07_2023      12:01:48] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:01:56] Test Case Passed
+[INFO] [20_07_2023      12:02:00] Closing Browser successfully... 
+[INFO] [20_07_2023      12:02:00]                                                                      
+[INFO] [20_07_2023      12:02:00] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:02:00] *********************************************************************
+[INFO] [20_07_2023      12:02:06] chromeinvoked successfully
+[INFO] [20_07_2023      12:02:14] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:02:15] Closing Browser successfully... 
+[INFO] [20_07_2023      12:02:15]                                                                      
+[INFO] [20_07_2023      12:02:15] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:02:15] *********************************************************************
+[INFO] [20_07_2023      12:02:21] chromeinvoked successfully
+[INFO] [20_07_2023      12:02:25] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:02:26] Closing Browser successfully... 
+[INFO] [20_07_2023      12:02:26]                                                                      
+[INFO] [20_07_2023      12:02:26] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:02:26] *********************************************************************
+[INFO] [20_07_2023      12:02:30] chromeinvoked successfully
+[INFO] [20_07_2023      12:02:36] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:02:37] Closing Browser successfully... 
+[INFO] [20_07_2023      12:02:37]                                                                      
+[INFO] [20_07_2023      12:02:37] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:02:37] *********************************************************************
+[INFO] [20_07_2023      12:02:40] chromeinvoked successfully
+[INFO] [20_07_2023      12:02:46] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:02:47] Closing Browser successfully... 
+[INFO] [20_07_2023      12:06:56]                                                                      
+[INFO] [20_07_2023      12:06:56] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:06:56] *********************************************************************
+[INFO] [20_07_2023      12:07:17] chromeinvoked successfully
+[INFO] [20_07_2023      12:07:20] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:07:25] Test Case Passed
+[INFO] [20_07_2023      12:07:28] Closing Browser successfully... 
+[INFO] [20_07_2023      12:07:28]                                                                      
+[INFO] [20_07_2023      12:07:28] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:07:28] *********************************************************************
+[INFO] [20_07_2023      12:07:31] chromeinvoked successfully
+[INFO] [20_07_2023      12:07:36] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:07:42] Test Case invalid username Passed
+[INFO] [20_07_2023      12:07:43] Closing Browser successfully... 
+[INFO] [20_07_2023      12:07:44]                                                                      
+[INFO] [20_07_2023      12:07:44] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:07:44] *********************************************************************
+[INFO] [20_07_2023      12:07:47] chromeinvoked successfully
+[INFO] [20_07_2023      12:07:52] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:07:55] Test Case invalid username Passed
+[INFO] [20_07_2023      12:07:56] Closing Browser successfully... 
+[INFO] [20_07_2023      12:07:56]                                                                      
+[INFO] [20_07_2023      12:07:56] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:07:56] *********************************************************************
+[INFO] [20_07_2023      12:07:58] chromeinvoked successfully
+[INFO] [20_07_2023      12:08:03] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:08:05] login action failed due to:org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression = //*[text() = ' username or email is required '] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '= //*[text() = ' username or email is required ']' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.201)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'LAPTOP-DKIK15C0', ip: '192.168.0.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.201, chrome: {chromedriverVersion: 114.0.5735.16 (7e1ff058633f..., userDataDir: C:\Users\mohdm\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50795}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d20f5b96cae886cbf4fd72839b9167b
+*** Element info: {Using=xpath, value== //*[text() = ' username or email is required ']}
+[INFO] [20_07_2023      12:08:06] Closing Browser successfully... 
+[INFO] [20_07_2023      12:08:06]                                                                      
+[INFO] [20_07_2023      12:08:06] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:08:06] *********************************************************************
+[INFO] [20_07_2023      12:08:08] chromeinvoked successfully
+[INFO] [20_07_2023      12:08:13] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:08:16] Test Case invalid username Passed
+[INFO] [20_07_2023      12:08:17] Closing Browser successfully... 
+[INFO] [20_07_2023      12:11:05]                                                                      
+[INFO] [20_07_2023      12:11:05] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:11:05] *********************************************************************
+[INFO] [20_07_2023      12:11:09] chromeinvoked successfully
+[INFO] [20_07_2023      12:11:20] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:11:24] Test Case Passed
+[INFO] [20_07_2023      12:11:25] Closing Browser successfully... 
+[INFO] [20_07_2023      12:11:25]                                                                      
+[INFO] [20_07_2023      12:11:25] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:11:25] *********************************************************************
+[INFO] [20_07_2023      12:11:30] chromeinvoked successfully
+[INFO] [20_07_2023      12:11:34] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:11:37] Test Case invalid username Passed
+[INFO] [20_07_2023      12:11:38] Closing Browser successfully... 
+[INFO] [20_07_2023      12:11:38]                                                                      
+[INFO] [20_07_2023      12:11:38] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:11:38] *********************************************************************
+[INFO] [20_07_2023      12:11:41] chromeinvoked successfully
+[INFO] [20_07_2023      12:11:44] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:11:47] Test Case invalid username Passed
+[INFO] [20_07_2023      12:11:48] Closing Browser successfully... 
+[INFO] [20_07_2023      12:11:48]                                                                      
+[INFO] [20_07_2023      12:11:48] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:11:48] *********************************************************************
+[INFO] [20_07_2023      12:11:52] chromeinvoked successfully
+[INFO] [20_07_2023      12:11:58] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:12:00] login action failed due to:org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression = //*[text() = ' username or email is required '] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '= //*[text() = ' username or email is required ']' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.201)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'LAPTOP-DKIK15C0', ip: '192.168.0.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.201, chrome: {chromedriverVersion: 114.0.5735.16 (7e1ff058633f..., userDataDir: C:\Users\mohdm\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50939}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 12b68fe7aa20a6b7370e06546324a36e
+*** Element info: {Using=xpath, value== //*[text() = ' username or email is required ']}
+[INFO] [20_07_2023      12:12:01] Closing Browser successfully... 
+[INFO] [20_07_2023      12:12:01]                                                                      
+[INFO] [20_07_2023      12:12:01] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:12:01] *********************************************************************
+[INFO] [20_07_2023      12:12:04] chromeinvoked successfully
+[INFO] [20_07_2023      12:12:08] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:12:11] Test Case invalid username Passed
+[INFO] [20_07_2023      12:12:12] Closing Browser successfully... 
+[INFO] [20_07_2023      12:16:55] chromeinvoked successfully
+[INFO] [20_07_2023      12:16:56] chrome failed to invoke due to java.lang.NullPointerException
+[INFO] [20_07_2023      12:19:06]                                                                      
+[INFO] [20_07_2023      12:19:06] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:19:06] *********************************************************************
+[INFO] [20_07_2023      12:19:14] chromeinvoked successfully
+[INFO] [20_07_2023      12:19:16] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:19:22] Test Case Passed
+[INFO] [20_07_2023      12:19:23] Closing Browser successfully... 
+[INFO] [20_07_2023      12:19:23]                                                                      
+[INFO] [20_07_2023      12:19:23] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:19:23] *********************************************************************
+[INFO] [20_07_2023      12:19:27] chromeinvoked successfully
+[INFO] [20_07_2023      12:19:31] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:19:35] Test Case invalid username Passed
+[INFO] [20_07_2023      12:19:35] Closing Browser successfully... 
+[INFO] [20_07_2023      12:19:35]                                                                      
+[INFO] [20_07_2023      12:19:35] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:19:35] *********************************************************************
+[INFO] [20_07_2023      12:19:38] chromeinvoked successfully
+[INFO] [20_07_2023      12:19:42] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:19:45] Test Case invalid username Passed
+[INFO] [20_07_2023      12:19:46] Closing Browser successfully... 
+[INFO] [20_07_2023      12:19:46]                                                                      
+[INFO] [20_07_2023      12:19:46] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:19:46] *********************************************************************
+[INFO] [20_07_2023      12:19:48] chromeinvoked successfully
+[INFO] [20_07_2023      12:19:56] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:19:58] login action failed due to:org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression = //*[text() = ' username or email is required '] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '= //*[text() = ' username or email is required ']' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.201)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'LAPTOP-DKIK15C0', ip: '192.168.0.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.201, chrome: {chromedriverVersion: 114.0.5735.16 (7e1ff058633f..., userDataDir: C:\Users\mohdm\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51271}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2d8388acd2759ce21edf498b38eeeda0
+*** Element info: {Using=xpath, value== //*[text() = ' username or email is required ']}
+[INFO] [20_07_2023      12:19:59] Closing Browser successfully... 
+[INFO] [20_07_2023      12:19:59]                                                                      
+[INFO] [20_07_2023      12:19:59] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:19:59] *********************************************************************
+[INFO] [20_07_2023      12:20:02] chromeinvoked successfully
+[INFO] [20_07_2023      12:20:05] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:20:09] Test Case invalid username Passed
+[INFO] [20_07_2023      12:20:10] Closing Browser successfully... 
+[INFO] [20_07_2023      12:23:20]                                                                      
+[INFO] [20_07_2023      12:23:20] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:23:20] *********************************************************************
+[INFO] [20_07_2023      12:23:26] chromeinvoked successfully
+[INFO] [20_07_2023      12:23:31] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:23:35] Test Case Passed
+[INFO] [20_07_2023      12:23:36] Closing Browser successfully... 
+[INFO] [20_07_2023      12:23:36]                                                                      
+[INFO] [20_07_2023      12:23:36] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:23:36] *********************************************************************
+[INFO] [20_07_2023      12:23:39] chromeinvoked successfully
+[INFO] [20_07_2023      12:23:43] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:23:46] Test Case invalid username Passed
+[INFO] [20_07_2023      12:23:47] Closing Browser successfully... 
+[INFO] [20_07_2023      12:23:47]                                                                      
+[INFO] [20_07_2023      12:23:47] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:23:47] *********************************************************************
+[INFO] [20_07_2023      12:23:50] chromeinvoked successfully
+[INFO] [20_07_2023      12:23:53] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:23:56] Test Case invalid username Passed
+[INFO] [20_07_2023      12:23:57] Closing Browser successfully... 
+[INFO] [20_07_2023      12:23:57]                                                                      
+[INFO] [20_07_2023      12:23:57] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:23:57] *********************************************************************
+[INFO] [20_07_2023      12:24:00] chromeinvoked successfully
+[INFO] [20_07_2023      12:24:04] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:24:07] Test Case  using invalid data Passed
+[INFO] [20_07_2023      12:24:07] Closing Browser successfully... 
+[INFO] [20_07_2023      12:24:07]                                                                      
+[INFO] [20_07_2023      12:24:07] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      12:24:08] *********************************************************************
+[INFO] [20_07_2023      12:24:11] chromeinvoked successfully
+[INFO] [20_07_2023      12:24:18] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      12:24:21] Test Case invalid username Passed
+[INFO] [20_07_2023      12:24:22] Closing Browser successfully... 
+[INFO] [20_07_2023      02:01:54]                                                                      
+[INFO] [20_07_2023      02:01:54] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      02:01:54] *********************************************************************
+[INFO] [20_07_2023      02:02:23] chromeinvoked successfully
+[INFO] [20_07_2023      02:02:31] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      02:02:35] Login Actions
+[INFO] [20_07_2023      02:02:35] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [20_07_2023      02:02:37] Closing Browser successfully... 
+[INFO] [20_07_2023      03:44:06]                                                                      
+[INFO] [20_07_2023      03:44:06] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      03:44:06] *********************************************************************
+[INFO] [20_07_2023      03:44:44] chromeinvoked successfully
+[INFO] [20_07_2023      03:44:49] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      03:44:53] Login Actions
+[INFO] [20_07_2023      03:44:53] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [20_07_2023      03:44:54] Closing Browser successfully... 
+[INFO] [20_07_2023      04:20:38]                                                                      
+[INFO] [20_07_2023      04:20:38] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      04:20:38] *********************************************************************
+[INFO] [20_07_2023      04:20:57] chromeinvoked successfully
+[INFO] [20_07_2023      04:21:01] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      04:21:04] Login Actions
+[INFO] [20_07_2023      04:21:04] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [20_07_2023      04:21:05] Closing Browser successfully... 
+[INFO] [20_07_2023      04:21:06]                                                                      
+[INFO] [20_07_2023      04:21:06] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      04:21:06] *********************************************************************
+[INFO] [20_07_2023      04:21:15] chromeinvoked successfully
+[INFO] [20_07_2023      04:21:23] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      04:21:26] Test Case Passed
+[INFO] [20_07_2023      04:21:27] Closing Browser successfully... 
+[INFO] [20_07_2023      04:21:27]                                                                      
+[INFO] [20_07_2023      04:21:27] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      04:21:27] *********************************************************************
+[INFO] [20_07_2023      04:21:31] chromeinvoked successfully
+[INFO] [20_07_2023      04:21:37] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      04:21:40] Test Case invalid username Passed
+[INFO] [20_07_2023      04:21:41] Closing Browser successfully... 
+[INFO] [20_07_2023      04:21:41]                                                                      
+[INFO] [20_07_2023      04:21:41] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      04:21:41] *********************************************************************
+[INFO] [20_07_2023      04:21:44] chromeinvoked successfully
+[INFO] [20_07_2023      04:21:51] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      04:21:54] Test Case invalid username Passed
+[INFO] [20_07_2023      04:21:55] Closing Browser successfully... 
+[INFO] [20_07_2023      04:21:55]                                                                      
+[INFO] [20_07_2023      04:21:55] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      04:21:55] *********************************************************************
+[INFO] [20_07_2023      04:21:59] chromeinvoked successfully
+[INFO] [20_07_2023      04:22:03] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      04:22:06] Test Case  using invalid data Passed
+[INFO] [20_07_2023      04:22:08] Closing Browser successfully... 
+[INFO] [20_07_2023      04:22:08]                                                                      
+[INFO] [20_07_2023      04:22:08] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      04:22:08] *********************************************************************
+[INFO] [20_07_2023      04:22:11] chromeinvoked successfully
+[INFO] [20_07_2023      04:22:16] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      04:22:19] Test Case invalid username Passed
+[INFO] [20_07_2023      04:22:20] Closing Browser successfully... 
+[INFO] [20_07_2023      06:08:15]                                                                      
+[INFO] [20_07_2023      06:08:15] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      06:08:15] *********************************************************************
+[INFO] [20_07_2023      06:09:05] chromeinvoked successfully
+[INFO] [20_07_2023      06:09:15] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      06:09:19] Login Actions
+[INFO] [20_07_2023      06:09:19] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [20_07_2023      06:09:20] Closing Browser successfully... 
+[INFO] [20_07_2023      06:46:47]                                                                      
+[INFO] [20_07_2023      06:46:47] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      06:46:47] *********************************************************************
+[INFO] [20_07_2023      06:47:18] chromeinvoked successfully
+[INFO] [20_07_2023      06:47:34] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      06:47:37] Login Actions
+[INFO] [20_07_2023      06:47:37] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [20_07_2023      06:47:42] Closing Browser successfully... 
+[INFO] [20_07_2023      06:49:22]                                                                      
+[INFO] [20_07_2023      06:49:22] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      06:49:22] *********************************************************************
+[INFO] [20_07_2023      06:49:28] chromeinvoked successfully
+[INFO] [20_07_2023      06:49:34] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      06:49:39] Test Case Passed
+[INFO] [20_07_2023      06:49:40] Closing Browser successfully... 
+[INFO] [20_07_2023      06:49:40]                                                                      
+[INFO] [20_07_2023      06:49:40] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      06:49:40] *********************************************************************
+[INFO] [20_07_2023      06:49:44] chromeinvoked successfully
+[INFO] [20_07_2023      06:49:48] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      06:49:50] Test Case invalid username Passed
+[INFO] [20_07_2023      06:49:51] Closing Browser successfully... 
+[INFO] [20_07_2023      06:49:51]                                                                      
+[INFO] [20_07_2023      06:49:51] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      06:49:51] *********************************************************************
+[INFO] [20_07_2023      06:49:55] chromeinvoked successfully
+[INFO] [20_07_2023      06:50:02] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      06:50:04] Test Case invalid username Passed
+[INFO] [20_07_2023      06:50:05] Closing Browser successfully... 
+[INFO] [20_07_2023      06:50:05]                                                                      
+[INFO] [20_07_2023      06:50:05] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      06:50:05] *********************************************************************
+[INFO] [20_07_2023      06:50:09] chromeinvoked successfully
+[INFO] [20_07_2023      06:50:15] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      06:50:17] Test Case  using invalid data Passed
+[INFO] [20_07_2023      06:50:19] Closing Browser successfully... 
+[INFO] [20_07_2023      06:50:19]                                                                      
+[INFO] [20_07_2023      06:50:19] ----------------------Login Actions------------------------------
+[INFO] [20_07_2023      06:50:19] *********************************************************************
+[INFO] [20_07_2023      06:50:23] chromeinvoked successfully
+[INFO] [20_07_2023      06:50:28] https://uibank.uipath.com/invoked successfully
+[INFO] [20_07_2023      06:50:31] Test Case invalid username Passed
+[INFO] [20_07_2023      06:50:32] Closing Browser successfully... 
+[INFO] [25_07_2023      02:25:24]                                                                      
+[INFO] [25_07_2023      02:25:24] ----------------------Login Actions------------------------------
+[INFO] [25_07_2023      02:25:24] *********************************************************************
+[INFO] [25_07_2023      02:26:43] chromeinvoked successfully
+[INFO] [25_07_2023      02:26:51] https://uibank.uipath.com/invoked successfully
+[INFO] [25_07_2023      02:26:53] Login Actions
+[INFO] [25_07_2023      02:26:53] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[INFO] [25_07_2023      02:26:59] Closing Browser successfully... 
